@@ -1,0 +1,26 @@
+[
+  {
+    "userId": 1,
+    "id": 10,
+    "title": "Example Blog Title",
+    "body": "This is the body of the blog post. It can contain multiple paragraphs and provide detailed information or thoughts on a particular topic."
+  },
+  {
+    "userId": 2,
+    "id": 11,
+    "title": "Example Blog Title",
+    "body": "This is the body of the blog post. It can contain multiple paragraphs and provide detailed information or thoughts on a particular topic."
+  },
+  {
+    "userId": 3,
+    "id": 12,
+    "title": "Example Blog Title",
+    "body": "This is the body of the blog post. It can contain multiple paragraphs and provide detailed information or thoughts on a particular topic."
+  },
+  {
+    "userId": 4,
+    "id": 13,
+    "title": "Example Blog Title",
+    "body": "This is the body of the blog post. It can contain multiple paragraphs and provide detailed information or thoughts on a particular topic."
+  }
+]
