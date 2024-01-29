@@ -9,6 +9,7 @@ import './index.css'
 
 import Home from './components/Home/Home';
 import ViewBlog from './components/ViewBlog/ViewBlog';
+import Favorite from './shared/Favorite/Favorite';
 
 const router = createBrowserRouter([
   {
@@ -18,7 +19,10 @@ const router = createBrowserRouter([
   {
     path: "/viewblog/:id",
     element: <ViewBlog></ViewBlog>
-    
+  },
+  {
+    path: "favorites",
+    element: <Favorite></Favorite>
   },
 
 ]);
